@@ -11,6 +11,8 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 
+# Start settings
+resume:                  "true"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
